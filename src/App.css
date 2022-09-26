@@ -1,0 +1,17 @@
+.navbar-background {
+    background-color: #929da9;
+}
+
+.home-heading {
+    color: #5b6772;
+}
+
+.sub-title {
+    color: #acadaf;
+}
+
+.spinner-center {
+    margin: auto;
+    margin-top: 20%;
+    display: flex !important;
+}
